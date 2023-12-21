@@ -1,0 +1,1991 @@
+[
+  {
+    "id": "6531d10e5233915130deb0b7",
+    "isInProduction": false,
+    "brand": "BMW",
+    "model": "Helen",
+    "color": "red",
+    "createdAt": "2010-12-22T00:34:11.445Z",
+    "updatedAt": "2010-12-23T00:34:11.445Z"
+  },
+  {
+    "id": "6531d10e89313ee5750eaab1",
+    "isInProduction": false,
+    "brand": "MERCEDES",
+    "model": "Nannie",
+    "color": "black",
+    "createdAt": "2012-04-21T11:34:58.385Z",
+    "updatedAt": "2012-04-22T11:34:58.385Z"
+  },
+  {
+    "id": "6531d10e7f0ba6264a039080",
+    "isInProduction": false,
+    "brand": "BMW",
+    "model": "Hoffman",
+    "color": "silver",
+    "createdAt": "2011-12-25T06:21:57.792Z",
+    "updatedAt": "2011-12-26T06:21:57.792Z"
+  },
+  {
+    "id": "6531d10ec962eb5318873b35",
+    "isInProduction": true,
+    "brand": "BMW",
+    "model": "Stella",
+    "color": "silver",
+    "createdAt": "2011-06-10T02:39:14.704Z",
+    "updatedAt": "2011-06-11T02:39:14.704Z"
+  },
+  {
+    "id": "6531d10e47ffcefd8f3266e4",
+    "isInProduction": false,
+    "brand": "BMW",
+    "model": "Sheree",
+    "color": "silver",
+    "createdAt": "2012-03-18T14:48:18.089Z",
+    "updatedAt": "2012-03-19T14:48:18.089Z"
+  },
+  {
+    "id": "6531d10e2d9724ea4b110fd0",
+    "isInProduction": false,
+    "brand": "HONDA",
+    "model": "Kara",
+    "color": "silver",
+    "createdAt": "2013-04-15T08:58:37.857Z",
+    "updatedAt": "2013-04-16T08:58:37.857Z"
+  },
+  {
+    "id": "6531d10e35056417900c00d2",
+    "isInProduction": true,
+    "brand": "MERCEDES",
+    "model": "Jessica",
+    "color": "red",
+    "createdAt": "2014-06-11T08:43:34.540Z",
+    "updatedAt": "2014-06-12T08:43:34.540Z"
+  },
+  {
+    "id": "6531d10e495015aadb3d0677",
+    "isInProduction": false,
+    "brand": "BMW",
+    "model": "Carson",
+    "color": "black",
+    "createdAt": "2013-04-10T20:54:25.948Z",
+    "updatedAt": "2013-04-11T20:54:25.948Z"
+  },
+  {
+    "id": "6531d10e94fb711dfc387a86",
+    "isInProduction": false,
+    "brand": "BMW",
+    "model": "Blanca",
+    "color": "blue",
+    "createdAt": "2013-08-08T03:23:02.174Z",
+    "updatedAt": "2013-08-09T03:23:02.174Z"
+  },
+  {
+    "id": "6531d10e67fc6a02f51f5937",
+    "isInProduction": true,
+    "brand": "HONDA",
+    "model": "Tami",
+    "color": "silver",
+    "createdAt": "2010-03-03T06:01:35.742Z",
+    "updatedAt": "2010-03-04T06:01:35.742Z"
+  },
+  {
+    "id": "6531d10e3b61b8d62fcb1892",
+    "isInProduction": false,
+    "brand": "HONDA",
+    "model": "Dina",
+    "color": "black",
+    "createdAt": "2011-05-27T11:22:48.150Z",
+    "updatedAt": "2011-05-28T11:22:48.150Z"
+  },
+  {
+    "id": "6531d10e7dcc180e4ca2b0d4",
+    "isInProduction": true,
+    "brand": "HONDA",
+    "model": "Antonia",
+    "color": "red",
+    "createdAt": "2011-05-13T18:09:51.751Z",
+    "updatedAt": "2011-05-14T18:09:51.751Z"
+  },
+  {
+    "id": "6531d10eec7ace2c31e1132b",
+    "isInProduction": false,
+    "brand": "HONDA",
+    "model": "Britney",
+    "color": "silver",
+    "createdAt": "2011-10-27T15:30:35.730Z",
+    "updatedAt": "2011-10-28T15:30:35.730Z"
+  },
+  {
+    "id": "6531d10e1376f7ec8a36ae85",
+    "isInProduction": true,
+    "brand": "HONDA",
+    "model": "Rhonda",
+    "color": "silver",
+    "createdAt": "2011-05-27T15:51:57.447Z",
+    "updatedAt": "2011-05-28T15:51:57.447Z"
+  },
+  {
+    "id": "6531d10eb37520fd0e7bcf38",
+    "isInProduction": false,
+    "brand": "HONDA",
+    "model": "Juliana",
+    "color": "silver",
+    "createdAt": "2013-08-20T19:55:05.713Z",
+    "updatedAt": "2013-08-21T19:55:05.713Z"
+  },
+  {
+    "id": "6531d10ecea25e19c10d7fe3",
+    "isInProduction": true,
+    "brand": "TOYOTA",
+    "model": "Levy",
+    "color": "red",
+    "createdAt": "2010-08-13T12:15:23.289Z",
+    "updatedAt": "2010-08-14T12:15:23.289Z"
+  },
+  {
+    "id": "6531d10e0616018da188c1a6",
+    "isInProduction": true,
+    "brand": "TOYOTA",
+    "model": "Margo",
+    "color": "black",
+    "createdAt": "2012-04-02T16:08:01.571Z",
+    "updatedAt": "2012-04-03T16:08:01.571Z"
+  },
+  {
+    "id": "6531d10e198324ccfa716d12",
+    "isInProduction": true,
+    "brand": "MERCEDES",
+    "model": "Chaney",
+    "color": "blue",
+    "createdAt": "2010-12-07T14:03:49.037Z",
+    "updatedAt": "2010-12-08T14:03:49.037Z"
+  },
+  {
+    "id": "6531d10eccbbce8249a006ff",
+    "isInProduction": false,
+    "brand": "BMW",
+    "model": "Patton",
+    "color": "red",
+    "createdAt": "2013-04-21T08:18:19.390Z",
+    "updatedAt": "2013-04-22T08:18:19.390Z"
+  },
+  {
+    "id": "6531d10e9b18a097c7f18cb8",
+    "isInProduction": true,
+    "brand": "TOYOTA",
+    "model": "Harvey",
+    "color": "black",
+    "createdAt": "2013-12-02T17:09:51.870Z",
+    "updatedAt": "2013-12-03T17:09:51.870Z"
+  },
+  {
+    "id": "6531d10ea95ae84d6f3e1c2c",
+    "isInProduction": true,
+    "brand": "TOYOTA",
+    "model": "Owen",
+    "color": "blue",
+    "createdAt": "2014-12-06T07:35:45.467Z",
+    "updatedAt": "2014-12-07T07:35:45.467Z"
+  },
+  {
+    "id": "6531d10e1a55297613bb4364",
+    "isInProduction": false,
+    "brand": "TOYOTA",
+    "model": "Verna",
+    "color": "blue",
+    "createdAt": "2013-03-26T09:03:54.152Z",
+    "updatedAt": "2013-03-27T09:03:54.152Z"
+  },
+  {
+    "id": "6531d10e999b6a9c4e3bb120",
+    "isInProduction": false,
+    "brand": "MERCEDES",
+    "model": "Reva",
+    "color": "silver",
+    "createdAt": "2013-07-28T15:06:39.400Z",
+    "updatedAt": "2013-07-29T15:06:39.400Z"
+  },
+  {
+    "id": "6531d10ec9e52487ac285569",
+    "isInProduction": false,
+    "brand": "MERCEDES",
+    "model": "Herrera",
+    "color": "silver",
+    "createdAt": "2010-07-25T03:48:35.939Z",
+    "updatedAt": "2010-07-26T03:48:35.939Z"
+  },
+  {
+    "id": "6531d10ee537116cab65c664",
+    "isInProduction": true,
+    "brand": "TOYOTA",
+    "model": "Lindsay",
+    "color": "red",
+    "createdAt": "2011-09-07T11:24:24.171Z",
+    "updatedAt": "2011-09-08T11:24:24.171Z"
+  },
+  {
+    "id": "6531d10e4b34132b37dc357c",
+    "isInProduction": true,
+    "brand": "MERCEDES",
+    "model": "Rhodes",
+    "color": "black",
+    "createdAt": "2011-09-01T08:59:07.895Z",
+    "updatedAt": "2011-09-02T08:59:07.895Z"
+  },
+  {
+    "id": "6531d10eb5d94bc29079269a",
+    "isInProduction": true,
+    "brand": "TOYOTA",
+    "model": "Susanne",
+    "color": "red",
+    "createdAt": "2011-08-23T06:12:45.920Z",
+    "updatedAt": "2011-08-24T06:12:45.920Z"
+  },
+  {
+    "id": "6531d10edd73deb3810cdb8e",
+    "isInProduction": false,
+    "brand": "HONDA",
+    "model": "Bell",
+    "color": "black",
+    "createdAt": "2010-05-16T23:17:54.969Z",
+    "updatedAt": "2010-05-17T23:17:54.969Z"
+  },
+  {
+    "id": "6531d10e04e5ac33f115c889",
+    "isInProduction": false,
+    "brand": "MERCEDES",
+    "model": "Dana",
+    "color": "blue",
+    "createdAt": "2013-01-03T16:36:25.602Z",
+    "updatedAt": "2013-01-04T16:36:25.602Z"
+  },
+  {
+    "id": "6531d10e45ccf9e3da8ae55c",
+    "isInProduction": false,
+    "brand": "MERCEDES",
+    "model": "Carey",
+    "color": "black",
+    "createdAt": "2013-08-08T08:20:02.037Z",
+    "updatedAt": "2013-08-09T08:20:02.037Z"
+  },
+  {
+    "id": "6531d10e89109b0a568c060b",
+    "isInProduction": false,
+    "brand": "MERCEDES",
+    "model": "Sawyer",
+    "color": "black",
+    "createdAt": "2012-09-22T22:28:05.607Z",
+    "updatedAt": "2012-09-23T22:28:05.607Z"
+  },
+  {
+    "id": "6531d10e3854841ccbd2cede",
+    "isInProduction": true,
+    "brand": "MERCEDES",
+    "model": "Geraldine",
+    "color": "red",
+    "createdAt": "2014-06-17T14:13:20.008Z",
+    "updatedAt": "2014-06-18T14:13:20.008Z"
+  },
+  {
+    "id": "6531d10e49c178567126f422",
+    "isInProduction": true,
+    "brand": "TOYOTA",
+    "model": "Mayra",
+    "color": "blue",
+    "createdAt": "2013-08-21T10:53:22.049Z",
+    "updatedAt": "2013-08-22T10:53:22.049Z"
+  },
+  {
+    "id": "6531d10e145d5b747ff48a17",
+    "isInProduction": false,
+    "brand": "MERCEDES",
+    "model": "Nelson",
+    "color": "red",
+    "createdAt": "2010-01-07T19:52:32.388Z",
+    "updatedAt": "2010-01-08T19:52:32.388Z"
+  },
+  {
+    "id": "6531d10e099885cb9ecebe7d",
+    "isInProduction": true,
+    "brand": "HONDA",
+    "model": "Deidre",
+    "color": "red",
+    "createdAt": "2010-11-07T15:40:44.457Z",
+    "updatedAt": "2010-11-08T15:40:44.457Z"
+  },
+  {
+    "id": "6531d10e711ba40fe70be820",
+    "isInProduction": true,
+    "brand": "HONDA",
+    "model": "Karyn",
+    "color": "red",
+    "createdAt": "2014-01-09T11:39:50.914Z",
+    "updatedAt": "2014-01-10T11:39:50.914Z"
+  },
+  {
+    "id": "6531d10e5336e27346cf13bf",
+    "isInProduction": true,
+    "brand": "TOYOTA",
+    "model": "Gregory",
+    "color": "silver",
+    "createdAt": "2013-12-12T13:32:32.541Z",
+    "updatedAt": "2013-12-13T13:32:32.541Z"
+  },
+  {
+    "id": "6531d10ec04fa0032a29573f",
+    "isInProduction": true,
+    "brand": "MERCEDES",
+    "model": "Gilliam",
+    "color": "red",
+    "createdAt": "2011-05-30T15:46:15.365Z",
+    "updatedAt": "2011-05-31T15:46:15.365Z"
+  },
+  {
+    "id": "6531d10e58eae205109ffac3",
+    "isInProduction": true,
+    "brand": "TOYOTA",
+    "model": "Josefa",
+    "color": "blue",
+    "createdAt": "2014-11-13T12:07:29.027Z",
+    "updatedAt": "2014-11-14T12:07:29.027Z"
+  },
+  {
+    "id": "6531d10eadce5e2042100507",
+    "isInProduction": true,
+    "brand": "HONDA",
+    "model": "Pitts",
+    "color": "red",
+    "createdAt": "2013-01-08T16:23:17.625Z",
+    "updatedAt": "2013-01-09T16:23:17.625Z"
+  },
+  {
+    "id": "6531d10ef2a522f533aed549",
+    "isInProduction": true,
+    "brand": "HONDA",
+    "model": "Benita",
+    "color": "blue",
+    "createdAt": "2013-02-27T12:30:08.680Z",
+    "updatedAt": "2013-02-28T12:30:08.680Z"
+  },
+  {
+    "id": "6531d10e2521154067b3daa8",
+    "isInProduction": true,
+    "brand": "TOYOTA",
+    "model": "Solomon",
+    "color": "silver",
+    "createdAt": "2013-06-18T13:44:50.619Z",
+    "updatedAt": "2013-06-19T13:44:50.619Z"
+  },
+  {
+    "id": "6531d10e0441141d44afaa19",
+    "isInProduction": true,
+    "brand": "BMW",
+    "model": "Sara",
+    "color": "black",
+    "createdAt": "2013-08-05T05:27:16.891Z",
+    "updatedAt": "2013-08-06T05:27:16.891Z"
+  },
+  {
+    "id": "6531d10ef7756c8e4452a9f5",
+    "isInProduction": true,
+    "brand": "BMW",
+    "model": "Vincent",
+    "color": "silver",
+    "createdAt": "2013-08-13T10:38:29.863Z",
+    "updatedAt": "2013-08-14T10:38:29.863Z"
+  },
+  {
+    "id": "6531d10e9eb892d549ec93d1",
+    "isInProduction": true,
+    "brand": "MERCEDES",
+    "model": "Fleming",
+    "color": "black",
+    "createdAt": "2011-03-10T11:44:56.043Z",
+    "updatedAt": "2011-03-11T11:44:56.043Z"
+  },
+  {
+    "id": "6531d10e4fcd419da754dc40",
+    "isInProduction": false,
+    "brand": "TOYOTA",
+    "model": "Janna",
+    "color": "blue",
+    "createdAt": "2011-12-31T16:25:19.189Z",
+    "updatedAt": "2012-01-01T16:25:19.189Z"
+  },
+  {
+    "id": "6531d10eb46dc7b45de5bb1e",
+    "isInProduction": false,
+    "brand": "TOYOTA",
+    "model": "Rosanne",
+    "color": "blue",
+    "createdAt": "2010-08-25T19:11:43.876Z",
+    "updatedAt": "2010-08-26T19:11:43.876Z"
+  },
+  {
+    "id": "6531d10e52894c88810993bc",
+    "isInProduction": false,
+    "brand": "MERCEDES",
+    "model": "Dickson",
+    "color": "silver",
+    "createdAt": "2011-05-01T03:04:57.667Z",
+    "updatedAt": "2011-05-02T03:04:57.667Z"
+  },
+  {
+    "id": "6531d10e7cd3a891fcf8e86f",
+    "isInProduction": true,
+    "brand": "MERCEDES",
+    "model": "Lee",
+    "color": "red",
+    "createdAt": "2014-07-05T17:07:48.933Z",
+    "updatedAt": "2014-07-06T17:07:48.933Z"
+  },
+  {
+    "id": "6531d10e9be1aef2698ca3d8",
+    "isInProduction": false,
+    "brand": "TOYOTA",
+    "model": "Terry",
+    "color": "blue",
+    "createdAt": "2011-01-31T13:18:28.308Z",
+    "updatedAt": "2011-02-01T13:18:28.308Z"
+  },
+  {
+    "id": "6531d10e694cadfc015436e3",
+    "isInProduction": false,
+    "brand": "TOYOTA",
+    "model": "Ofelia",
+    "color": "red",
+    "createdAt": "2013-01-10T15:54:34.773Z",
+    "updatedAt": "2013-01-11T15:54:34.773Z"
+  },
+  {
+    "id": "6531d10e80a9054982fd0b55",
+    "isInProduction": true,
+    "brand": "BMW",
+    "model": "Weber",
+    "color": "red",
+    "createdAt": "2011-04-07T00:27:58.825Z",
+    "updatedAt": "2011-04-08T00:27:58.825Z"
+  },
+  {
+    "id": "6531d10e8c5c4f894cf94c51",
+    "isInProduction": false,
+    "brand": "TOYOTA",
+    "model": "Lilian",
+    "color": "black",
+    "createdAt": "2013-01-23T00:35:59.227Z",
+    "updatedAt": "2013-01-24T00:35:59.227Z"
+  },
+  {
+    "id": "6531d10e5e821f55e3c0f715",
+    "isInProduction": false,
+    "brand": "BMW",
+    "model": "Jackson",
+    "color": "red",
+    "createdAt": "2012-05-15T11:39:40.053Z",
+    "updatedAt": "2012-05-16T11:39:40.053Z"
+  },
+  {
+    "id": "6531d10e4888b4eb3410328d",
+    "isInProduction": true,
+    "brand": "BMW",
+    "model": "Kim",
+    "color": "blue",
+    "createdAt": "2014-02-14T07:32:21.603Z",
+    "updatedAt": "2014-02-15T07:32:21.603Z"
+  },
+  {
+    "id": "6531d10e7567d68e1e8de9aa",
+    "isInProduction": false,
+    "brand": "BMW",
+    "model": "Michelle",
+    "color": "red",
+    "createdAt": "2010-10-04T05:09:25.091Z",
+    "updatedAt": "2010-10-05T05:09:25.091Z"
+  },
+  {
+    "id": "6531d10e9ae436f4d94f95a9",
+    "isInProduction": false,
+    "brand": "BMW",
+    "model": "Callie",
+    "color": "silver",
+    "createdAt": "2011-09-21T02:17:26.347Z",
+    "updatedAt": "2011-09-22T02:17:26.347Z"
+  },
+  {
+    "id": "6531d10e1a7db116a2a51a35",
+    "isInProduction": false,
+    "brand": "TOYOTA",
+    "model": "Esther",
+    "color": "red",
+    "createdAt": "2014-02-15T09:41:11.545Z",
+    "updatedAt": "2014-02-16T09:41:11.545Z"
+  },
+  {
+    "id": "6531d10e409f2bc5896e564f",
+    "isInProduction": false,
+    "brand": "TOYOTA",
+    "model": "Claudia",
+    "color": "red",
+    "createdAt": "2010-10-18T06:12:16.698Z",
+    "updatedAt": "2010-10-19T06:12:16.698Z"
+  },
+  {
+    "id": "6531d10e03f61e259657758c",
+    "isInProduction": true,
+    "brand": "BMW",
+    "model": "Loretta",
+    "color": "silver",
+    "createdAt": "2011-08-17T14:52:31.128Z",
+    "updatedAt": "2011-08-18T14:52:31.128Z"
+  },
+  {
+    "id": "6531d10efea06e7c68c0c4e9",
+    "isInProduction": true,
+    "brand": "HONDA",
+    "model": "Laurie",
+    "color": "red",
+    "createdAt": "2013-09-24T18:23:33.687Z",
+    "updatedAt": "2013-09-25T18:23:33.687Z"
+  },
+  {
+    "id": "6531d10e866357441ca0d36f",
+    "isInProduction": false,
+    "brand": "TOYOTA",
+    "model": "Tisha",
+    "color": "silver",
+    "createdAt": "2010-08-10T14:20:37.183Z",
+    "updatedAt": "2010-08-11T14:20:37.183Z"
+  },
+  {
+    "id": "6531d10e294fe17689a9c903",
+    "isInProduction": true,
+    "brand": "BMW",
+    "model": "Ballard",
+    "color": "silver",
+    "createdAt": "2010-12-06T19:50:01.461Z",
+    "updatedAt": "2010-12-07T19:50:01.461Z"
+  },
+  {
+    "id": "6531d10e461786c8a7876d2d",
+    "isInProduction": true,
+    "brand": "TOYOTA",
+    "model": "Elisa",
+    "color": "blue",
+    "createdAt": "2011-05-20T12:57:30.853Z",
+    "updatedAt": "2011-05-21T12:57:30.853Z"
+  },
+  {
+    "id": "6531d10e43d4cd340b7a5fa4",
+    "isInProduction": true,
+    "brand": "HONDA",
+    "model": "Anastasia",
+    "color": "blue",
+    "createdAt": "2014-04-13T10:44:48.480Z",
+    "updatedAt": "2014-04-14T10:44:48.480Z"
+  },
+  {
+    "id": "6531d10e31d9b128ec215fa5",
+    "isInProduction": false,
+    "brand": "HONDA",
+    "model": "Hallie",
+    "color": "red",
+    "createdAt": "2011-12-17T23:54:27.000Z",
+    "updatedAt": "2011-12-18T23:54:27.000Z"
+  },
+  {
+    "id": "6531d10e72dcb4de85ac83ed",
+    "isInProduction": true,
+    "brand": "MERCEDES",
+    "model": "Allison",
+    "color": "red",
+    "createdAt": "2010-09-03T13:03:50.189Z",
+    "updatedAt": "2010-09-04T13:03:50.189Z"
+  },
+  {
+    "id": "6531d10eb3620f94555851a0",
+    "isInProduction": true,
+    "brand": "HONDA",
+    "model": "Ortiz",
+    "color": "blue",
+    "createdAt": "2010-08-19T20:24:57.064Z",
+    "updatedAt": "2010-08-20T20:24:57.064Z"
+  },
+  {
+    "id": "6531d10e018c5e04c83dece0",
+    "isInProduction": true,
+    "brand": "BMW",
+    "model": "Terrie",
+    "color": "blue",
+    "createdAt": "2013-01-26T13:59:11.662Z",
+    "updatedAt": "2013-01-27T13:59:11.662Z"
+  },
+  {
+    "id": "6531d10e5176cbc9b04fdbc3",
+    "isInProduction": true,
+    "brand": "BMW",
+    "model": "Rene",
+    "color": "silver",
+    "createdAt": "2014-10-08T19:04:26.803Z",
+    "updatedAt": "2014-10-09T19:04:26.803Z"
+  },
+  {
+    "id": "6531d10ea61ae63444316f43",
+    "isInProduction": false,
+    "brand": "TOYOTA",
+    "model": "Zimmerman",
+    "color": "red",
+    "createdAt": "2014-05-07T20:07:11.778Z",
+    "updatedAt": "2014-05-08T20:07:11.778Z"
+  },
+  {
+    "id": "6531d10ebb12272ff4a9bab0",
+    "isInProduction": false,
+    "brand": "TOYOTA",
+    "model": "Ava",
+    "color": "silver",
+    "createdAt": "2010-04-24T14:17:13.577Z",
+    "updatedAt": "2010-04-25T14:17:13.577Z"
+  },
+  {
+    "id": "6531d10e78c13ca4a4785eb4",
+    "isInProduction": true,
+    "brand": "TOYOTA",
+    "model": "Tanner",
+    "color": "red",
+    "createdAt": "2014-06-14T17:16:45.236Z",
+    "updatedAt": "2014-06-15T17:16:45.236Z"
+  },
+  {
+    "id": "6531d10efdcb831506d4acdf",
+    "isInProduction": true,
+    "brand": "BMW",
+    "model": "Pam",
+    "color": "silver",
+    "createdAt": "2010-10-01T03:14:00.137Z",
+    "updatedAt": "2010-10-02T03:14:00.137Z"
+  },
+  {
+    "id": "6531d10e4d01b2ba82eb3656",
+    "isInProduction": false,
+    "brand": "TOYOTA",
+    "model": "Maura",
+    "color": "black",
+    "createdAt": "2011-03-12T12:37:24.811Z",
+    "updatedAt": "2011-03-13T12:37:24.811Z"
+  },
+  {
+    "id": "6531d10ec915fc854d1cf16b",
+    "isInProduction": false,
+    "brand": "BMW",
+    "model": "Huff",
+    "color": "red",
+    "createdAt": "2013-03-14T00:14:08.791Z",
+    "updatedAt": "2013-03-15T00:14:08.791Z"
+  },
+  {
+    "id": "6531d10e828f6fd399319381",
+    "isInProduction": true,
+    "brand": "BMW",
+    "model": "Cara",
+    "color": "blue",
+    "createdAt": "2011-02-17T14:51:15.114Z",
+    "updatedAt": "2011-02-18T14:51:15.114Z"
+  },
+  {
+    "id": "6531d10e015f26ec322f2212",
+    "isInProduction": true,
+    "brand": "BMW",
+    "model": "Daisy",
+    "color": "blue",
+    "createdAt": "2011-11-14T03:36:12.303Z",
+    "updatedAt": "2011-11-15T03:36:12.303Z"
+  },
+  {
+    "id": "6531d10e84996ee4c0fbc6cf",
+    "isInProduction": true,
+    "brand": "BMW",
+    "model": "Rios",
+    "color": "silver",
+    "createdAt": "2014-09-05T03:08:55.190Z",
+    "updatedAt": "2014-09-06T03:08:55.190Z"
+  },
+  {
+    "id": "6531d10e31265b969df4a070",
+    "isInProduction": true,
+    "brand": "HONDA",
+    "model": "Bonnie",
+    "color": "blue",
+    "createdAt": "2013-09-12T00:55:50.923Z",
+    "updatedAt": "2013-09-13T00:55:50.923Z"
+  },
+  {
+    "id": "6531d10e5b158a75fada1d12",
+    "isInProduction": false,
+    "brand": "HONDA",
+    "model": "Hahn",
+    "color": "blue",
+    "createdAt": "2012-11-28T03:05:10.489Z",
+    "updatedAt": "2012-11-29T03:05:10.489Z"
+  },
+  {
+    "id": "6531d10ecd46c8cf85bb1f83",
+    "isInProduction": true,
+    "brand": "TOYOTA",
+    "model": "Erickson",
+    "color": "blue",
+    "createdAt": "2011-03-16T07:59:45.560Z",
+    "updatedAt": "2011-03-17T07:59:45.560Z"
+  },
+  {
+    "id": "6531d10efdca59509f51bce1",
+    "isInProduction": true,
+    "brand": "HONDA",
+    "model": "Mayo",
+    "color": "blue",
+    "createdAt": "2014-06-06T08:33:52.051Z",
+    "updatedAt": "2014-06-07T08:33:52.051Z"
+  },
+  {
+    "id": "6531d10edc8518f05477fa96",
+    "isInProduction": true,
+    "brand": "BMW",
+    "model": "Juanita",
+    "color": "silver",
+    "createdAt": "2010-12-18T00:00:21.021Z",
+    "updatedAt": "2010-12-19T00:00:21.021Z"
+  },
+  {
+    "id": "6531d10e3cf1e0a8af41bde7",
+    "isInProduction": true,
+    "brand": "MERCEDES",
+    "model": "Jerry",
+    "color": "red",
+    "createdAt": "2014-12-22T16:36:18.376Z",
+    "updatedAt": "2014-12-23T16:36:18.376Z"
+  },
+  {
+    "id": "6531d10e81d03c83721143b1",
+    "isInProduction": true,
+    "brand": "BMW",
+    "model": "Blanchard",
+    "color": "black",
+    "createdAt": "2014-02-25T01:33:24.237Z",
+    "updatedAt": "2014-02-26T01:33:24.237Z"
+  },
+  {
+    "id": "6531d10ec3d4ca623c572490",
+    "isInProduction": true,
+    "brand": "MERCEDES",
+    "model": "Ferrell",
+    "color": "black",
+    "createdAt": "2011-11-16T21:43:07.801Z",
+    "updatedAt": "2011-11-17T21:43:07.801Z"
+  },
+  {
+    "id": "6531d10e5425bd53ce5f4519",
+    "isInProduction": false,
+    "brand": "MERCEDES",
+    "model": "Sonya",
+    "color": "red",
+    "createdAt": "2013-01-10T14:01:03.483Z",
+    "updatedAt": "2013-01-11T14:01:03.483Z"
+  },
+  {
+    "id": "6531d10e7443d3d77f007c3d",
+    "isInProduction": true,
+    "brand": "TOYOTA",
+    "model": "Herman",
+    "color": "black",
+    "createdAt": "2010-06-22T10:06:54.024Z",
+    "updatedAt": "2010-06-23T10:06:54.024Z"
+  },
+  {
+    "id": "6531d10ed33038d5196bb2d7",
+    "isInProduction": true,
+    "brand": "TOYOTA",
+    "model": "Gaines",
+    "color": "red",
+    "createdAt": "2014-12-05T06:57:10.013Z",
+    "updatedAt": "2014-12-06T06:57:10.013Z"
+  },
+  {
+    "id": "6531d10e800f67a7374afb45",
+    "isInProduction": true,
+    "brand": "TOYOTA",
+    "model": "Kerry",
+    "color": "black",
+    "createdAt": "2014-12-16T20:31:06.965Z",
+    "updatedAt": "2014-12-17T20:31:06.965Z"
+  },
+  {
+    "id": "6531d10ef09816133609e29b",
+    "isInProduction": true,
+    "brand": "TOYOTA",
+    "model": "Celeste",
+    "color": "red",
+    "createdAt": "2013-10-15T19:04:57.941Z",
+    "updatedAt": "2013-10-16T19:04:57.941Z"
+  },
+  {
+    "id": "6531d10eb3db71a554ddbb84",
+    "isInProduction": false,
+    "brand": "TOYOTA",
+    "model": "Michael",
+    "color": "black",
+    "createdAt": "2010-06-08T15:15:16.160Z",
+    "updatedAt": "2010-06-09T15:15:16.160Z"
+  },
+  {
+    "id": "6531d10e279825bf2171d7d9",
+    "isInProduction": true,
+    "brand": "MERCEDES",
+    "model": "Mccarthy",
+    "color": "black",
+    "createdAt": "2013-12-20T06:47:36.211Z",
+    "updatedAt": "2013-12-21T06:47:36.211Z"
+  },
+  {
+    "id": "6531d10e8541d56d81c8d44a",
+    "isInProduction": false,
+    "brand": "HONDA",
+    "model": "Genevieve",
+    "color": "silver",
+    "createdAt": "2010-01-31T07:28:17.518Z",
+    "updatedAt": "2010-02-01T07:28:17.518Z"
+  },
+  {
+    "id": "6531d10ea933e242827a2d5e",
+    "isInProduction": false,
+    "brand": "BMW",
+    "model": "Scott",
+    "color": "red",
+    "createdAt": "2013-06-07T14:12:58.915Z",
+    "updatedAt": "2013-06-08T14:12:58.915Z"
+  },
+  {
+    "id": "6531d10e5d53c042b9091523",
+    "isInProduction": false,
+    "brand": "MERCEDES",
+    "model": "Latasha",
+    "color": "silver",
+    "createdAt": "2013-11-02T15:47:30.782Z",
+    "updatedAt": "2013-11-03T15:47:30.782Z"
+  },
+  {
+    "id": "6531d10ef10420f3a5dc1926",
+    "isInProduction": true,
+    "brand": "TOYOTA",
+    "model": "Frank",
+    "color": "blue",
+    "createdAt": "2013-07-09T22:54:55.466Z",
+    "updatedAt": "2013-07-10T22:54:55.466Z"
+  },
+  {
+    "id": "6531d10e570d2e91318c1267",
+    "isInProduction": true,
+    "brand": "HONDA",
+    "model": "Katharine",
+    "color": "black",
+    "createdAt": "2011-06-18T16:41:29.853Z",
+    "updatedAt": "2011-06-19T16:41:29.853Z"
+  },
+  {
+    "id": "6531d10ecff70a142b25d75e",
+    "isInProduction": true,
+    "brand": "TOYOTA",
+    "model": "Richmond",
+    "color": "blue",
+    "createdAt": "2012-02-03T02:58:12.030Z",
+    "updatedAt": "2012-02-04T02:58:12.030Z"
+  },
+  {
+    "id": "6531d10eebd5b29c1fc0eecd",
+    "isInProduction": true,
+    "brand": "BMW",
+    "model": "Tameka",
+    "color": "silver",
+    "createdAt": "2014-12-27T18:12:49.706Z",
+    "updatedAt": "2014-12-28T18:12:49.706Z"
+  },
+  {
+    "id": "6531d10eac5a941e9e3704d9",
+    "isInProduction": false,
+    "brand": "BMW",
+    "model": "Kinney",
+    "color": "silver",
+    "createdAt": "2013-10-09T14:28:37.654Z",
+    "updatedAt": "2013-10-10T14:28:37.654Z"
+  },
+  {
+    "id": "6531d10ebe9a0cdd8f7f5ff0",
+    "isInProduction": true,
+    "brand": "HONDA",
+    "model": "Ward",
+    "color": "red",
+    "createdAt": "2010-04-23T19:48:31.887Z",
+    "updatedAt": "2010-04-24T19:48:31.887Z"
+  },
+  {
+    "id": "6531d10e738e4f3f7ea9f365",
+    "isInProduction": true,
+    "brand": "TOYOTA",
+    "model": "Cummings",
+    "color": "red",
+    "createdAt": "2011-01-27T02:05:46.645Z",
+    "updatedAt": "2011-01-28T02:05:46.645Z"
+  },
+  {
+    "id": "6531d10e39b9244ac3ad4ff3",
+    "isInProduction": true,
+    "brand": "HONDA",
+    "model": "Nanette",
+    "color": "blue",
+    "createdAt": "2012-02-29T03:37:14.004Z",
+    "updatedAt": "2012-03-01T03:37:14.004Z"
+  },
+  {
+    "id": "6531d10e79079fa2593b6b46",
+    "isInProduction": true,
+    "brand": "HONDA",
+    "model": "Jenifer",
+    "color": "silver",
+    "createdAt": "2012-12-07T01:47:08.112Z",
+    "updatedAt": "2012-12-08T01:47:08.112Z"
+  },
+  {
+    "id": "6531d10e395f09becc4f63e7",
+    "isInProduction": false,
+    "brand": "BMW",
+    "model": "Wheeler",
+    "color": "black",
+    "createdAt": "2010-02-03T15:34:48.927Z",
+    "updatedAt": "2010-02-04T15:34:48.927Z"
+  },
+  {
+    "id": "6531d10e1beac4946ac6c391",
+    "isInProduction": true,
+    "brand": "HONDA",
+    "model": "Letha",
+    "color": "black",
+    "createdAt": "2014-07-05T07:11:15.970Z",
+    "updatedAt": "2014-07-06T07:11:15.970Z"
+  },
+  {
+    "id": "6531d10ee7e4d32561ab6248",
+    "isInProduction": true,
+    "brand": "MERCEDES",
+    "model": "Brooke",
+    "color": "red",
+    "createdAt": "2011-10-31T11:42:26.000Z",
+    "updatedAt": "2011-11-01T11:42:26.000Z"
+  },
+  {
+    "id": "6531d10eb2871a77405ad787",
+    "isInProduction": true,
+    "brand": "MERCEDES",
+    "model": "Rose",
+    "color": "red",
+    "createdAt": "2014-03-28T16:53:36.960Z",
+    "updatedAt": "2014-03-29T16:53:36.960Z"
+  },
+  {
+    "id": "6531d10e4d82a7ee5e0f944e",
+    "isInProduction": false,
+    "brand": "HONDA",
+    "model": "Velasquez",
+    "color": "silver",
+    "createdAt": "2010-12-31T10:15:12.121Z",
+    "updatedAt": "2011-01-01T10:15:12.121Z"
+  },
+  {
+    "id": "6531d10e68ea868ee605724a",
+    "isInProduction": false,
+    "brand": "BMW",
+    "model": "Tran",
+    "color": "black",
+    "createdAt": "2010-03-31T06:14:22.851Z",
+    "updatedAt": "2010-04-01T06:14:22.851Z"
+  },
+  {
+    "id": "6531d10e2cddeae12eb7aec2",
+    "isInProduction": true,
+    "brand": "TOYOTA",
+    "model": "Forbes",
+    "color": "red",
+    "createdAt": "2013-08-14T12:48:03.054Z",
+    "updatedAt": "2013-08-15T12:48:03.054Z"
+  },
+  {
+    "id": "6531d10e8b369e6b412ade07",
+    "isInProduction": true,
+    "brand": "BMW",
+    "model": "Lourdes",
+    "color": "silver",
+    "createdAt": "2011-02-15T06:14:02.400Z",
+    "updatedAt": "2011-02-16T06:14:02.400Z"
+  },
+  {
+    "id": "6531d10ed224948670e079a8",
+    "isInProduction": true,
+    "brand": "TOYOTA",
+    "model": "Merrill",
+    "color": "silver",
+    "createdAt": "2011-12-10T23:13:23.863Z",
+    "updatedAt": "2011-12-11T23:13:23.863Z"
+  },
+  {
+    "id": "6531d10ea7a02bbeafcdb759",
+    "isInProduction": false,
+    "brand": "BMW",
+    "model": "Fran",
+    "color": "black",
+    "createdAt": "2014-12-25T20:34:47.181Z",
+    "updatedAt": "2014-12-26T20:34:47.181Z"
+  },
+  {
+    "id": "6531d10e91c55dbad7c83e1b",
+    "isInProduction": false,
+    "brand": "MERCEDES",
+    "model": "Angela",
+    "color": "silver",
+    "createdAt": "2011-08-22T13:11:45.687Z",
+    "updatedAt": "2011-08-23T13:11:45.687Z"
+  },
+  {
+    "id": "6531d10e29a0a7c32d070011",
+    "isInProduction": false,
+    "brand": "BMW",
+    "model": "Rachelle",
+    "color": "silver",
+    "createdAt": "2014-06-10T03:11:47.512Z",
+    "updatedAt": "2014-06-11T03:11:47.512Z"
+  },
+  {
+    "id": "6531d10e7ea9509536bb0cef",
+    "isInProduction": false,
+    "brand": "TOYOTA",
+    "model": "Giles",
+    "color": "black",
+    "createdAt": "2010-09-12T08:12:44.106Z",
+    "updatedAt": "2010-09-13T08:12:44.106Z"
+  },
+  {
+    "id": "6531d10eae77714239dfe230",
+    "isInProduction": false,
+    "brand": "TOYOTA",
+    "model": "Nicholson",
+    "color": "black",
+    "createdAt": "2014-07-16T22:59:32.032Z",
+    "updatedAt": "2014-07-17T22:59:32.032Z"
+  },
+  {
+    "id": "6531d10e1e1b005bb2212089",
+    "isInProduction": false,
+    "brand": "BMW",
+    "model": "Lesley",
+    "color": "blue",
+    "createdAt": "2013-06-17T02:38:35.884Z",
+    "updatedAt": "2013-06-18T02:38:35.884Z"
+  },
+  {
+    "id": "6531d10e1655bce93f319af6",
+    "isInProduction": true,
+    "brand": "MERCEDES",
+    "model": "Marla",
+    "color": "blue",
+    "createdAt": "2013-12-16T00:37:44.697Z",
+    "updatedAt": "2013-12-17T00:37:44.697Z"
+  },
+  {
+    "id": "6531d10e1587576d5c45db7e",
+    "isInProduction": false,
+    "brand": "HONDA",
+    "model": "Cooley",
+    "color": "blue",
+    "createdAt": "2014-07-19T13:54:45.846Z",
+    "updatedAt": "2014-07-20T13:54:45.846Z"
+  },
+  {
+    "id": "6531d10eaf6aa4741da1f165",
+    "isInProduction": true,
+    "brand": "MERCEDES",
+    "model": "Hess",
+    "color": "red",
+    "createdAt": "2010-06-15T23:55:40.181Z",
+    "updatedAt": "2010-06-16T23:55:40.181Z"
+  },
+  {
+    "id": "6531d10ef15d20f4294f7487",
+    "isInProduction": false,
+    "brand": "TOYOTA",
+    "model": "Maynard",
+    "color": "red",
+    "createdAt": "2012-12-02T02:06:54.546Z",
+    "updatedAt": "2012-12-03T02:06:54.546Z"
+  },
+  {
+    "id": "6531d10e418370c8f23e3d68",
+    "isInProduction": true,
+    "brand": "MERCEDES",
+    "model": "Nelda",
+    "color": "silver",
+    "createdAt": "2010-06-30T20:37:22.967Z",
+    "updatedAt": "2010-07-01T20:37:22.967Z"
+  },
+  {
+    "id": "6531d10ebc76ad4192b4a994",
+    "isInProduction": true,
+    "brand": "TOYOTA",
+    "model": "Brooks",
+    "color": "blue",
+    "createdAt": "2010-02-28T22:10:17.720Z",
+    "updatedAt": "2010-03-01T22:10:17.720Z"
+  },
+  {
+    "id": "6531d10efda120df0990a5a7",
+    "isInProduction": true,
+    "brand": "BMW",
+    "model": "Wooten",
+    "color": "black",
+    "createdAt": "2013-06-15T14:16:08.892Z",
+    "updatedAt": "2013-06-16T14:16:08.892Z"
+  },
+  {
+    "id": "6531d10ef94a468a8726fa1e",
+    "isInProduction": true,
+    "brand": "BMW",
+    "model": "Sandy",
+    "color": "red",
+    "createdAt": "2012-08-28T23:29:21.357Z",
+    "updatedAt": "2012-08-29T23:29:21.357Z"
+  },
+  {
+    "id": "6531d10e1b5bf5909243f4af",
+    "isInProduction": true,
+    "brand": "TOYOTA",
+    "model": "Gentry",
+    "color": "black",
+    "createdAt": "2014-03-14T13:16:16.917Z",
+    "updatedAt": "2014-03-15T13:16:16.917Z"
+  },
+  {
+    "id": "6531d10eecf1e868705b374d",
+    "isInProduction": false,
+    "brand": "TOYOTA",
+    "model": "Angelia",
+    "color": "blue",
+    "createdAt": "2014-08-11T07:30:51.534Z",
+    "updatedAt": "2014-08-12T07:30:51.534Z"
+  },
+  {
+    "id": "6531d10e324afc560e4fe145",
+    "isInProduction": false,
+    "brand": "MERCEDES",
+    "model": "Bradley",
+    "color": "silver",
+    "createdAt": "2013-06-03T23:50:09.455Z",
+    "updatedAt": "2013-06-04T23:50:09.455Z"
+  },
+  {
+    "id": "6531d10e4b03c49e6f2eb4c2",
+    "isInProduction": true,
+    "brand": "HONDA",
+    "model": "George",
+    "color": "blue",
+    "createdAt": "2013-10-08T03:18:35.155Z",
+    "updatedAt": "2013-10-09T03:18:35.155Z"
+  },
+  {
+    "id": "6531d10e684a7626dc1f30f2",
+    "isInProduction": true,
+    "brand": "MERCEDES",
+    "model": "Ball",
+    "color": "black",
+    "createdAt": "2013-06-26T07:11:05.768Z",
+    "updatedAt": "2013-06-27T07:11:05.768Z"
+  },
+  {
+    "id": "6531d10ebd3344a2f671df04",
+    "isInProduction": true,
+    "brand": "HONDA",
+    "model": "Summers",
+    "color": "silver",
+    "createdAt": "2013-04-28T15:04:38.962Z",
+    "updatedAt": "2013-04-29T15:04:38.962Z"
+  },
+  {
+    "id": "6531d10e09953354c8f03260",
+    "isInProduction": true,
+    "brand": "MERCEDES",
+    "model": "Welch",
+    "color": "red",
+    "createdAt": "2013-07-01T03:18:28.779Z",
+    "updatedAt": "2013-07-02T03:18:28.779Z"
+  },
+  {
+    "id": "6531d10e8e454b90aacf6dc6",
+    "isInProduction": false,
+    "brand": "BMW",
+    "model": "Arline",
+    "color": "blue",
+    "createdAt": "2014-04-29T09:19:32.986Z",
+    "updatedAt": "2014-04-30T09:19:32.986Z"
+  },
+  {
+    "id": "6531d10e8345a5ef7aa5f5b4",
+    "isInProduction": true,
+    "brand": "HONDA",
+    "model": "Hebert",
+    "color": "black",
+    "createdAt": "2014-12-22T15:47:13.949Z",
+    "updatedAt": "2014-12-23T15:47:13.949Z"
+  },
+  {
+    "id": "6531d10e8f42399cfb80daef",
+    "isInProduction": true,
+    "brand": "TOYOTA",
+    "model": "Aisha",
+    "color": "blue",
+    "createdAt": "2010-02-09T00:19:52.107Z",
+    "updatedAt": "2010-02-10T00:19:52.107Z"
+  },
+  {
+    "id": "6531d10ee17de043f8f92c17",
+    "isInProduction": false,
+    "brand": "BMW",
+    "model": "Shawn",
+    "color": "blue",
+    "createdAt": "2011-02-25T01:39:35.756Z",
+    "updatedAt": "2011-02-26T01:39:35.756Z"
+  },
+  {
+    "id": "6531d10e4e088b4cd6753dc0",
+    "isInProduction": false,
+    "brand": "MERCEDES",
+    "model": "Gamble",
+    "color": "silver",
+    "createdAt": "2014-02-09T07:30:22.152Z",
+    "updatedAt": "2014-02-10T07:30:22.152Z"
+  },
+  {
+    "id": "6531d10e3f8af85795cee102",
+    "isInProduction": true,
+    "brand": "MERCEDES",
+    "model": "Sondra",
+    "color": "blue",
+    "createdAt": "2010-11-20T05:19:22.217Z",
+    "updatedAt": "2010-11-21T05:19:22.217Z"
+  },
+  {
+    "id": "6531d10efc985d6dbe575cfc",
+    "isInProduction": false,
+    "brand": "MERCEDES",
+    "model": "Whitfield",
+    "color": "red",
+    "createdAt": "2010-08-20T01:20:21.702Z",
+    "updatedAt": "2010-08-21T01:20:21.702Z"
+  },
+  {
+    "id": "6531d10ea57e47cfaddc78bc",
+    "isInProduction": true,
+    "brand": "MERCEDES",
+    "model": "Olson",
+    "color": "red",
+    "createdAt": "2014-08-18T16:12:29.834Z",
+    "updatedAt": "2014-08-19T16:12:29.834Z"
+  },
+  {
+    "id": "6531d10e892e968fd9af4672",
+    "isInProduction": true,
+    "brand": "HONDA",
+    "model": "Juarez",
+    "color": "silver",
+    "createdAt": "2013-05-12T01:52:08.925Z",
+    "updatedAt": "2013-05-13T01:52:08.925Z"
+  },
+  {
+    "id": "6531d10e668a55236ebf6416",
+    "isInProduction": false,
+    "brand": "MERCEDES",
+    "model": "Carlene",
+    "color": "black",
+    "createdAt": "2013-11-24T13:31:22.203Z",
+    "updatedAt": "2013-11-25T13:31:22.203Z"
+  },
+  {
+    "id": "6531d10e8d9c37a858d3f202",
+    "isInProduction": true,
+    "brand": "TOYOTA",
+    "model": "Suzette",
+    "color": "blue",
+    "createdAt": "2013-09-30T22:45:58.662Z",
+    "updatedAt": "2013-10-01T22:45:58.662Z"
+  },
+  {
+    "id": "6531d10ef1f0a0a357e9e1b3",
+    "isInProduction": false,
+    "brand": "BMW",
+    "model": "Trudy",
+    "color": "silver",
+    "createdAt": "2014-01-25T04:54:16.873Z",
+    "updatedAt": "2014-01-26T04:54:16.873Z"
+  },
+  {
+    "id": "6531d10e2fc6defa5ba988d9",
+    "isInProduction": true,
+    "brand": "BMW",
+    "model": "Garrison",
+    "color": "silver",
+    "createdAt": "2011-11-13T13:12:37.087Z",
+    "updatedAt": "2011-11-14T13:12:37.087Z"
+  },
+  {
+    "id": "6531d10e8e75e3d0b013a1e2",
+    "isInProduction": false,
+    "brand": "HONDA",
+    "model": "William",
+    "color": "silver",
+    "createdAt": "2012-06-18T19:10:38.221Z",
+    "updatedAt": "2012-06-19T19:10:38.221Z"
+  },
+  {
+    "id": "6531d10e2cb2fc2e7723823a",
+    "isInProduction": false,
+    "brand": "MERCEDES",
+    "model": "Cathleen",
+    "color": "silver",
+    "createdAt": "2010-03-30T21:05:42.764Z",
+    "updatedAt": "2010-03-31T21:05:42.764Z"
+  },
+  {
+    "id": "6531d10e45257bb5280d9f13",
+    "isInProduction": true,
+    "brand": "MERCEDES",
+    "model": "Deanna",
+    "color": "silver",
+    "createdAt": "2012-05-01T02:45:43.623Z",
+    "updatedAt": "2012-05-02T02:45:43.623Z"
+  },
+  {
+    "id": "6531d10e47024db6938a5b53",
+    "isInProduction": true,
+    "brand": "BMW",
+    "model": "Glenn",
+    "color": "red",
+    "createdAt": "2011-11-24T19:31:35.172Z",
+    "updatedAt": "2011-11-25T19:31:35.172Z"
+  },
+  {
+    "id": "6531d10eb06080f82ede5e76",
+    "isInProduction": true,
+    "brand": "MERCEDES",
+    "model": "Chandra",
+    "color": "red",
+    "createdAt": "2010-09-25T23:58:17.227Z",
+    "updatedAt": "2010-09-26T23:58:17.227Z"
+  },
+  {
+    "id": "6531d10e70ae0ab4f1a8d525",
+    "isInProduction": false,
+    "brand": "BMW",
+    "model": "Koch",
+    "color": "red",
+    "createdAt": "2014-07-07T09:40:57.341Z",
+    "updatedAt": "2014-07-08T09:40:57.341Z"
+  },
+  {
+    "id": "6531d10e9bb2060d7a6aa2f7",
+    "isInProduction": true,
+    "brand": "BMW",
+    "model": "Mullins",
+    "color": "red",
+    "createdAt": "2013-01-23T00:03:29.034Z",
+    "updatedAt": "2013-01-24T00:03:29.034Z"
+  },
+  {
+    "id": "6531d10ebe0e7c7a9c5536d3",
+    "isInProduction": true,
+    "brand": "TOYOTA",
+    "model": "Danielle",
+    "color": "silver",
+    "createdAt": "2013-12-23T22:28:13.173Z",
+    "updatedAt": "2013-12-24T22:28:13.173Z"
+  },
+  {
+    "id": "6531d10eaa35ffb201c80878",
+    "isInProduction": false,
+    "brand": "BMW",
+    "model": "Chang",
+    "color": "silver",
+    "createdAt": "2011-06-03T20:40:26.410Z",
+    "updatedAt": "2011-06-04T20:40:26.410Z"
+  },
+  {
+    "id": "6531d10ecb3225809b078977",
+    "isInProduction": true,
+    "brand": "TOYOTA",
+    "model": "Lea",
+    "color": "silver",
+    "createdAt": "2011-08-07T16:35:18.502Z",
+    "updatedAt": "2011-08-08T16:35:18.502Z"
+  },
+  {
+    "id": "6531d10e70f686f824316bfe",
+    "isInProduction": false,
+    "brand": "BMW",
+    "model": "Haney",
+    "color": "red",
+    "createdAt": "2013-09-01T19:33:42.464Z",
+    "updatedAt": "2013-09-02T19:33:42.464Z"
+  },
+  {
+    "id": "6531d10e63618af1e94dc9f6",
+    "isInProduction": false,
+    "brand": "HONDA",
+    "model": "Laurel",
+    "color": "silver",
+    "createdAt": "2010-01-07T16:02:10.415Z",
+    "updatedAt": "2010-01-08T16:02:10.415Z"
+  },
+  {
+    "id": "6531d10ebf07e64d35dd039b",
+    "isInProduction": true,
+    "brand": "TOYOTA",
+    "model": "Chasity",
+    "color": "red",
+    "createdAt": "2013-04-29T05:43:44.812Z",
+    "updatedAt": "2013-04-30T05:43:44.812Z"
+  },
+  {
+    "id": "6531d10e4dd82542be9e0d48",
+    "isInProduction": false,
+    "brand": "HONDA",
+    "model": "Rosalinda",
+    "color": "blue",
+    "createdAt": "2013-04-07T16:18:58.913Z",
+    "updatedAt": "2013-04-08T16:18:58.913Z"
+  },
+  {
+    "id": "6531d10ec4dac113a501910d",
+    "isInProduction": false,
+    "brand": "BMW",
+    "model": "Adams",
+    "color": "silver",
+    "createdAt": "2011-06-30T21:41:13.970Z",
+    "updatedAt": "2011-07-01T21:41:13.970Z"
+  },
+  {
+    "id": "6531d10efb78243b05fdc8a6",
+    "isInProduction": false,
+    "brand": "MERCEDES",
+    "model": "Josie",
+    "color": "red",
+    "createdAt": "2013-01-17T19:54:40.207Z",
+    "updatedAt": "2013-01-18T19:54:40.207Z"
+  },
+  {
+    "id": "6531d10e92eedc55551ce6cb",
+    "isInProduction": false,
+    "brand": "HONDA",
+    "model": "Thompson",
+    "color": "black",
+    "createdAt": "2013-11-17T03:16:16.859Z",
+    "updatedAt": "2013-11-18T03:16:16.859Z"
+  },
+  {
+    "id": "6531d10e51a072c4e54cb8f0",
+    "isInProduction": true,
+    "brand": "BMW",
+    "model": "Estelle",
+    "color": "blue",
+    "createdAt": "2011-10-16T16:07:47.182Z",
+    "updatedAt": "2011-10-17T16:07:47.182Z"
+  },
+  {
+    "id": "6531d10e51ff1ce36f623f31",
+    "isInProduction": false,
+    "brand": "TOYOTA",
+    "model": "Rowe",
+    "color": "silver",
+    "createdAt": "2011-03-06T13:42:04.118Z",
+    "updatedAt": "2011-03-07T13:42:04.118Z"
+  },
+  {
+    "id": "6531d10ee8de19f7073347f4",
+    "isInProduction": false,
+    "brand": "BMW",
+    "model": "Jeanette",
+    "color": "blue",
+    "createdAt": "2011-02-11T23:51:49.014Z",
+    "updatedAt": "2011-02-12T23:51:49.014Z"
+  },
+  {
+    "id": "6531d10e3c42f6777aeb9a4c",
+    "isInProduction": false,
+    "brand": "TOYOTA",
+    "model": "Bernadette",
+    "color": "black",
+    "createdAt": "2013-07-08T08:43:31.392Z",
+    "updatedAt": "2013-07-09T08:43:31.392Z"
+  },
+  {
+    "id": "6531d10eaae2326679ce621b",
+    "isInProduction": true,
+    "brand": "MERCEDES",
+    "model": "Hughes",
+    "color": "black",
+    "createdAt": "2012-11-30T00:21:27.664Z",
+    "updatedAt": "2012-12-01T00:21:27.664Z"
+  },
+  {
+    "id": "6531d10efd30e3f923f41a94",
+    "isInProduction": true,
+    "brand": "HONDA",
+    "model": "Briggs",
+    "color": "silver",
+    "createdAt": "2010-12-09T11:39:41.292Z",
+    "updatedAt": "2010-12-10T11:39:41.292Z"
+  },
+  {
+    "id": "6531d10e473877c37d70076c",
+    "isInProduction": false,
+    "brand": "MERCEDES",
+    "model": "Suzanne",
+    "color": "black",
+    "createdAt": "2010-07-04T21:30:52.215Z",
+    "updatedAt": "2010-07-05T21:30:52.215Z"
+  },
+  {
+    "id": "6531d10e9163831f3c848300",
+    "isInProduction": false,
+    "brand": "HONDA",
+    "model": "Beatrice",
+    "color": "black",
+    "createdAt": "2012-11-01T00:47:35.331Z",
+    "updatedAt": "2012-11-02T00:47:35.331Z"
+  },
+  {
+    "id": "6531d10ea964c74f695d7a0b",
+    "isInProduction": false,
+    "brand": "HONDA",
+    "model": "Sandra",
+    "color": "red",
+    "createdAt": "2011-12-04T02:03:36.865Z",
+    "updatedAt": "2011-12-05T02:03:36.865Z"
+  },
+  {
+    "id": "6531d10e847074760f3679d3",
+    "isInProduction": false,
+    "brand": "MERCEDES",
+    "model": "Jillian",
+    "color": "black",
+    "createdAt": "2014-10-15T21:57:54.005Z",
+    "updatedAt": "2014-10-16T21:57:54.005Z"
+  },
+  {
+    "id": "6531d10e3ff75cc08436f725",
+    "isInProduction": false,
+    "brand": "HONDA",
+    "model": "Conner",
+    "color": "silver",
+    "createdAt": "2014-10-22T09:40:08.613Z",
+    "updatedAt": "2014-10-23T09:40:08.613Z"
+  },
+  {
+    "id": "6531d10e81f59cb67b0ec3d6",
+    "isInProduction": true,
+    "brand": "MERCEDES",
+    "model": "Hattie",
+    "color": "red",
+    "createdAt": "2013-11-18T18:35:07.362Z",
+    "updatedAt": "2013-11-19T18:35:07.362Z"
+  },
+  {
+    "id": "6531d10e31f80884738cb724",
+    "isInProduction": true,
+    "brand": "MERCEDES",
+    "model": "Viola",
+    "color": "red",
+    "createdAt": "2010-11-08T16:07:40.764Z",
+    "updatedAt": "2010-11-09T16:07:40.764Z"
+  },
+  {
+    "id": "6531d10e37f821a70fdf9901",
+    "isInProduction": false,
+    "brand": "HONDA",
+    "model": "Mai",
+    "color": "silver",
+    "createdAt": "2011-03-21T16:42:03.546Z",
+    "updatedAt": "2011-03-22T16:42:03.546Z"
+  },
+  {
+    "id": "6531d10e6c4539aa4a485f39",
+    "isInProduction": true,
+    "brand": "TOYOTA",
+    "model": "Courtney",
+    "color": "blue",
+    "createdAt": "2012-08-11T11:07:50.920Z",
+    "updatedAt": "2012-08-12T11:07:50.920Z"
+  },
+  {
+    "id": "6531d10e15cd866327e7e5e6",
+    "isInProduction": false,
+    "brand": "MERCEDES",
+    "model": "Booth",
+    "color": "silver",
+    "createdAt": "2014-05-21T02:29:59.414Z",
+    "updatedAt": "2014-05-22T02:29:59.414Z"
+  },
+  {
+    "id": "6531d10e0d7eb11f20ffb634",
+    "isInProduction": false,
+    "brand": "HONDA",
+    "model": "Joseph",
+    "color": "blue",
+    "createdAt": "2010-05-24T01:53:41.146Z",
+    "updatedAt": "2010-05-25T01:53:41.146Z"
+  },
+  {
+    "id": "6531d10e0c0ddb61b8c0fd41",
+    "isInProduction": false,
+    "brand": "HONDA",
+    "model": "Keisha",
+    "color": "silver",
+    "createdAt": "2013-04-12T20:57:22.066Z",
+    "updatedAt": "2013-04-13T20:57:22.066Z"
+  },
+  {
+    "id": "6531d10eee293fa53d153eec",
+    "isInProduction": false,
+    "brand": "MERCEDES",
+    "model": "Hendricks",
+    "color": "black",
+    "createdAt": "2013-12-13T12:23:06.197Z",
+    "updatedAt": "2013-12-14T12:23:06.197Z"
+  },
+  {
+    "id": "6531d10e6c555e90ff39c06b",
+    "isInProduction": true,
+    "brand": "HONDA",
+    "model": "Hines",
+    "color": "red",
+    "createdAt": "2012-09-13T00:49:39.129Z",
+    "updatedAt": "2012-09-14T00:49:39.129Z"
+  },
+  {
+    "id": "6531d10e780a311306eab933",
+    "isInProduction": false,
+    "brand": "BMW",
+    "model": "Hilary",
+    "color": "red",
+    "createdAt": "2013-02-21T12:26:22.531Z",
+    "updatedAt": "2013-02-22T12:26:22.531Z"
+  },
+  {
+    "id": "6531d10e2a901eef80ecbbf2",
+    "isInProduction": false,
+    "brand": "HONDA",
+    "model": "Pate",
+    "color": "silver",
+    "createdAt": "2010-06-17T04:53:59.468Z",
+    "updatedAt": "2010-06-18T04:53:59.468Z"
+  },
+  {
+    "id": "6531d10e79cfaa8f3769b5b2",
+    "isInProduction": false,
+    "brand": "HONDA",
+    "model": "Beth",
+    "color": "red",
+    "createdAt": "2014-03-04T23:55:28.181Z",
+    "updatedAt": "2014-03-05T23:55:28.181Z"
+  },
+  {
+    "id": "6531d10e1fc1bd60f5a79e1c",
+    "isInProduction": false,
+    "brand": "BMW",
+    "model": "Jennie",
+    "color": "silver",
+    "createdAt": "2013-05-10T07:38:20.836Z",
+    "updatedAt": "2013-05-11T07:38:20.836Z"
+  },
+  {
+    "id": "6531d10e8bff4baa1a7e1023",
+    "isInProduction": true,
+    "brand": "MERCEDES",
+    "model": "Rodriguez",
+    "color": "black",
+    "createdAt": "2010-09-29T01:31:20.148Z",
+    "updatedAt": "2010-09-30T01:31:20.148Z"
+  },
+  {
+    "id": "6531d10e0563ddc58555e596",
+    "isInProduction": false,
+    "brand": "MERCEDES",
+    "model": "Margie",
+    "color": "black",
+    "createdAt": "2014-01-25T03:43:11.584Z",
+    "updatedAt": "2014-01-26T03:43:11.584Z"
+  },
+  {
+    "id": "6531d10e28759910336285f4",
+    "isInProduction": false,
+    "brand": "MERCEDES",
+    "model": "Pickett",
+    "color": "red",
+    "createdAt": "2011-07-02T11:51:52.606Z",
+    "updatedAt": "2011-07-03T11:51:52.606Z"
+  },
+  {
+    "id": "6531d10e85d495bcb0676202",
+    "isInProduction": true,
+    "brand": "BMW",
+    "model": "Vega",
+    "color": "red",
+    "createdAt": "2011-09-06T20:18:01.657Z",
+    "updatedAt": "2011-09-07T20:18:01.657Z"
+  },
+  {
+    "id": "6531d10e9f55f51ec0a931f0",
+    "isInProduction": true,
+    "brand": "BMW",
+    "model": "Deloris",
+    "color": "red",
+    "createdAt": "2012-02-26T16:40:53.294Z",
+    "updatedAt": "2012-02-27T16:40:53.294Z"
+  },
+  {
+    "id": "6531d10e673fb0c8ccdeed06",
+    "isInProduction": true,
+    "brand": "MERCEDES",
+    "model": "Carlson",
+    "color": "silver",
+    "createdAt": "2012-08-21T15:58:24.281Z",
+    "updatedAt": "2012-08-22T15:58:24.281Z"
+  },
+  {
+    "id": "6531d10e4da25d12d18b887d",
+    "isInProduction": true,
+    "brand": "BMW",
+    "model": "Gibson",
+    "color": "blue",
+    "createdAt": "2012-07-13T03:38:33.539Z",
+    "updatedAt": "2012-07-14T03:38:33.539Z"
+  },
+  {
+    "id": "6531d10e91e5fd64f34d8dc6",
+    "isInProduction": false,
+    "brand": "MERCEDES",
+    "model": "Jodie",
+    "color": "blue",
+    "createdAt": "2012-07-25T22:44:07.411Z",
+    "updatedAt": "2012-07-26T22:44:07.411Z"
+  },
+  {
+    "id": "6531d10e247d1cd0481922a2",
+    "isInProduction": true,
+    "brand": "MERCEDES",
+    "model": "Sheppard",
+    "color": "blue",
+    "createdAt": "2014-03-25T12:24:25.334Z",
+    "updatedAt": "2014-03-26T12:24:25.334Z"
+  },
+  {
+    "id": "6531d10e4aed47d89f9c6718",
+    "isInProduction": false,
+    "brand": "HONDA",
+    "model": "Fay",
+    "color": "blue",
+    "createdAt": "2010-08-23T08:51:18.788Z",
+    "updatedAt": "2010-08-24T08:51:18.788Z"
+  },
+  {
+    "id": "6531d10e35070da766d54c30",
+    "isInProduction": false,
+    "brand": "MERCEDES",
+    "model": "Luann",
+    "color": "blue",
+    "createdAt": "2014-05-01T18:56:39.478Z",
+    "updatedAt": "2014-05-02T18:56:39.478Z"
+  },
+  {
+    "id": "6531d10eeecf699efca23289",
+    "isInProduction": true,
+    "brand": "HONDA",
+    "model": "Beryl",
+    "color": "black",
+    "createdAt": "2010-12-19T00:57:29.406Z",
+    "updatedAt": "2010-12-20T00:57:29.406Z"
+  },
+  {
+    "id": "6531d10e8cd0e19d71c85f4c",
+    "isInProduction": false,
+    "brand": "TOYOTA",
+    "model": "Thelma",
+    "color": "blue",
+    "createdAt": "2012-03-13T02:54:04.644Z",
+    "updatedAt": "2012-03-14T02:54:04.644Z"
+  },
+  {
+    "id": "6531d10e6087c5b0050cd24c",
+    "isInProduction": false,
+    "brand": "MERCEDES",
+    "model": "Ray",
+    "color": "black",
+    "createdAt": "2010-03-21T19:44:17.751Z",
+    "updatedAt": "2010-03-22T19:44:17.751Z"
+  },
+  {
+    "id": "6531d10e2ac77e4c82a33708",
+    "isInProduction": false,
+    "brand": "MERCEDES",
+    "model": "Klein",
+    "color": "black",
+    "createdAt": "2010-03-09T03:52:43.882Z",
+    "updatedAt": "2010-03-10T03:52:43.882Z"
+  },
+  {
+    "id": "6531d10e2a2daf611c349e5c",
+    "isInProduction": false,
+    "brand": "HONDA",
+    "model": "Good",
+    "color": "red",
+    "createdAt": "2013-02-19T09:28:48.014Z",
+    "updatedAt": "2013-02-20T09:28:48.014Z"
+  },
+  {
+    "id": "6531d10ed7463030e55b0a46",
+    "isInProduction": false,
+    "brand": "HONDA",
+    "model": "Paige",
+    "color": "black",
+    "createdAt": "2012-12-20T12:37:41.999Z",
+    "updatedAt": "2012-12-21T12:37:41.999Z"
+  },
+  {
+    "id": "6531d10e75e99ca36995d046",
+    "isInProduction": false,
+    "brand": "TOYOTA",
+    "model": "Mosley",
+    "color": "blue",
+    "createdAt": "2012-08-22T03:57:32.234Z",
+    "updatedAt": "2012-08-23T03:57:32.234Z"
+  },
+  {
+    "id": "6531d10e65cc55ecdb0fa133",
+    "isInProduction": true,
+    "brand": "MERCEDES",
+    "model": "Mccray",
+    "color": "black",
+    "createdAt": "2012-09-29T06:24:28.190Z",
+    "updatedAt": "2012-09-30T06:24:28.190Z"
+  },
+  {
+    "id": "6531d10e339a35a03f1cfeba",
+    "isInProduction": true,
+    "brand": "BMW",
+    "model": "Frazier",
+    "color": "black",
+    "createdAt": "2011-02-07T17:04:41.921Z",
+    "updatedAt": "2011-02-08T17:04:41.921Z"
+  },
+  {
+    "id": "6531d10e5c9baef51427c2d8",
+    "isInProduction": false,
+    "brand": "BMW",
+    "model": "Chavez",
+    "color": "silver",
+    "createdAt": "2011-08-31T09:50:17.152Z",
+    "updatedAt": "2011-09-01T09:50:17.152Z"
+  },
+  {
+    "id": "6531d10eecde8d5ff2c08323",
+    "isInProduction": true,
+    "brand": "TOYOTA",
+    "model": "Kitty",
+    "color": "red",
+    "createdAt": "2012-04-16T09:38:12.171Z",
+    "updatedAt": "2012-04-17T09:38:12.171Z"
+  },
+  {
+    "id": "6531d10e872e5a13359a8073",
+    "isInProduction": true,
+    "brand": "BMW",
+    "model": "Barry",
+    "color": "blue",
+    "createdAt": "2014-01-21T19:18:52.702Z",
+    "updatedAt": "2014-01-22T19:18:52.702Z"
+  },
+  {
+    "id": "6531d10e3ab9040eeaacd8ec",
+    "isInProduction": false,
+    "brand": "TOYOTA",
+    "model": "Pacheco",
+    "color": "red",
+    "createdAt": "2012-04-18T05:38:02.959Z",
+    "updatedAt": "2012-04-19T05:38:02.959Z"
+  },
+  {
+    "id": "6531d10e04e65410cf11bb38",
+    "isInProduction": true,
+    "brand": "TOYOTA",
+    "model": "Crawford",
+    "color": "black",
+    "createdAt": "2012-05-29T03:44:43.603Z",
+    "updatedAt": "2012-05-30T03:44:43.603Z"
+  },
+  {
+    "id": "6531d10e66dfafa4600697ab",
+    "isInProduction": true,
+    "brand": "BMW",
+    "model": "Osborn",
+    "color": "red",
+    "createdAt": "2012-11-01T19:58:42.872Z",
+    "updatedAt": "2012-11-02T19:58:42.872Z"
+  },
+  {
+    "id": "6531d10e51fcbb719967ad02",
+    "isInProduction": true,
+    "brand": "TOYOTA",
+    "model": "Hopper",
+    "color": "black",
+    "createdAt": "2011-12-23T21:53:52.265Z",
+    "updatedAt": "2011-12-24T21:53:52.265Z"
+  },
+  {
+    "id": "6531d10e912777109de06919",
+    "isInProduction": true,
+    "brand": "HONDA",
+    "model": "Lizzie",
+    "color": "blue",
+    "createdAt": "2012-03-21T04:05:52.107Z",
+    "updatedAt": "2012-03-22T04:05:52.107Z"
+  },
+  {
+    "id": "6531d10e08a54b09ee67a054",
+    "isInProduction": true,
+    "brand": "TOYOTA",
+    "model": "Nguyen",
+    "color": "blue",
+    "createdAt": "2013-05-28T11:21:23.459Z",
+    "updatedAt": "2013-05-29T11:21:23.459Z"
+  },
+  {
+    "id": "6531d10e508d06a992e84391",
+    "isInProduction": true,
+    "brand": "MERCEDES",
+    "model": "Bass",
+    "color": "silver",
+    "createdAt": "2011-02-06T16:39:35.982Z",
+    "updatedAt": "2011-02-07T16:39:35.982Z"
+  },
+  {
+    "id": "6531d10ee0b6068d877e700c",
+    "isInProduction": false,
+    "brand": "MERCEDES",
+    "model": "Liliana",
+    "color": "blue",
+    "createdAt": "2012-06-13T23:03:50.880Z",
+    "updatedAt": "2012-06-14T23:03:50.880Z"
+  }
+]
