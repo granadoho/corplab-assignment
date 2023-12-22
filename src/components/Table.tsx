@@ -95,8 +95,6 @@ const Table = () => {
         queryParams.set('sortOrder', sortOrder);
 
         setShareableLink(`${window.location.href.split('?')[0]}?${queryParams.toString()}`);
-
-        // You can copy the link to the clipboard, open a modal, or do anything else here
     };
 
 
@@ -168,6 +166,7 @@ const Table = () => {
                 {/* Filtered feature based on column for desktop */}
                 <select
                 id="searchColumn"
+                data-testid="searchColumn"
                 className="hidden lg:flex py-2 px-5 w-[13rem] h-9 bg-white bg-opacity-20 rounded-2xl shadow text-white text-xs"
                 value={searchColumn}
                 onChange={(e) => setSearchColumn(e.target.value)}
@@ -314,6 +313,7 @@ const Table = () => {
                 {/* Generate link button for mobile or tablet */}
                 <div className="flex lg:hidden w-[13rem] h-9 bg-white bg-opacity-20 border rounded-2xl cursor-pointer justify-center items-center m-3">
                     <button 
+                        data-testid="generateButton"
                         className="w-full text-sm justify-center items-center text-center font-bold text-white"
                         onClick={generateShareableLink}
                     >
@@ -324,7 +324,7 @@ const Table = () => {
 
             {shareableLink !== '' ? (
                 <div className="flex flex-row w-full justify-start p-5 text-blue-400 text-sm truncate">
-                    <a href={shareableLink}>
+                    <a data-testid="link" href={shareableLink}>
                         Generated Link: {shareableLink}
                      </a>
                 </div>
